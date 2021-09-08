@@ -70,7 +70,6 @@ body {
 }
 .card__body--title h1 {
     color: var(--primary-color);
-    font-size: 25px;
     font-weight: 900;
 }
 .card__body--title p {
