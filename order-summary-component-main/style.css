@@ -68,7 +68,7 @@ body {
 .card__body--title {
     text-align: center;
 }
-.card__body--title h2 {
+.card__body--title h1 {
     color: var(--primary-color);
     font-size: 25px;
     font-weight: 900;
