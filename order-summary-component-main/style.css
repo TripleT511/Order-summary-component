@@ -113,6 +113,7 @@ body {
     justify-content: space-between;
 }
 .options__desc h2 {
+    font-size: 16px;
     color: var(--primary-color);
 }
 .options__desc p {
