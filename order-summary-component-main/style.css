@@ -19,6 +19,8 @@ body {
     background: var(--bg-main);
 }
 .attribution {
+      position: absolute;
+      bottom: 0;
       font-size: 11px;
       text-align: center;
 }
