@@ -44,7 +44,7 @@ body {
 .card {
     position: relative;
     max-width: 450px;
-    height: auto;
+    height: 697px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -62,7 +62,7 @@ body {
 }
 .card__body {
     position: relative;
-    padding: 50px 40px;
+    padding: 46px 48px;
     width: 100%;
 }
 .card__body--title {
@@ -70,19 +70,20 @@ body {
 }
 .card__body--title h1 {
     color: var(--primary-color);
-    font-size: 25px;
+    font-size: 28px;
     font-weight: 900;
 }
 .card__body--title p {
     margin-top: 25px;
     color: var(--second-color);
     font-size: 16px;
+    line-height: calc(26 / 16);
 }
 .card__body--options {
     position: relative;
     margin-top: 25px;
     background: var(--bg-options);
-    padding: 20px;
+    padding: 25px 24px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -137,7 +138,7 @@ body {
     padding: 15px 0;
     background: transparent;
     border: none;
-    border-radius: 10px;
+    border-radius: 8px;
     font-size: 16px;
     color: var(--primary-color);
     font-weight: 700;
